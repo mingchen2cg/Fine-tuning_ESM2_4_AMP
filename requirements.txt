@@ -1,0 +1,5 @@
+torch~=2.5.1
+pandas~=2.2.3
+transformers~=4.46.3
+tqdm~=4.67.1
+scikit-learn==1.5.2

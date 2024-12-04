@@ -1,1 +1,1 @@
-目前已完成在稳定性、toxicity任务上的微调的代码。
+目前已完成在稳定性、toxicity、activity_ecoli任务上的微调的代码。

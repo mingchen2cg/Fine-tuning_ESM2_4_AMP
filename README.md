@@ -1,1 +1,2 @@
-目前已完成在稳定性、toxicity、activity_ecoli任务上的微调的代码。
+目前已完成在稳定性、toxicity、activity_ecoli、activity_avg任务上的微调的代码。
+todo：跑完所有任务的微调代码 没卡，这事儿很难办啊
